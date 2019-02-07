@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser Starting]]>
+    </line>
+    <line>
+      <![CDATA[Browser Started]]>
+    </line>
+    <line>
+      <![CDATA[Login pop up open to fill the detail of user]]>
+    </line>
+    <line>
+      <![CDATA[UserName Entered]]>
+    </line>
+    <line>
+      <![CDATA[password Entered]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11759" started-at="2018-04-17T10:07:50Z" finished-at="2018-04-17T10:08:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11759" started-at="2018-04-17T10:07:50Z" finished-at="2018-04-17T10:08:02Z">
+      <class name="test.Log">
+        <test-method status="PASS" signature="browser_start()[pri:1, instance:test.Log@87f383f]" name="browser_start" duration-ms="10937" started-at="2018-04-17T10:07:50Z" finished-at="2018-04-17T10:08:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Starting]]>
+            </line>
+            <line>
+              <![CDATA[Browser Started]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browser_start -->
+        <test-method status="PASS" signature="lopgin()[pri:2, instance:test.Log@87f383f]" name="lopgin" duration-ms="796" started-at="2018-04-17T10:08:01Z" finished-at="2018-04-17T10:08:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Login pop up open to fill the detail of user]]>
+            </line>
+            <line>
+              <![CDATA[UserName Entered]]>
+            </line>
+            <line>
+              <![CDATA[password Entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- lopgin -->
+      </class> <!-- test.Log -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
