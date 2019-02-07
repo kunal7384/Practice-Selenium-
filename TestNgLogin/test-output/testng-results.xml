@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="63709" started-at="2018-09-17T09:00:54Z" finished-at="2018-09-17T09:01:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="63709" started-at="2018-09-17T09:00:54Z" finished-at="2018-09-17T09:01:58Z">
+      <class name="demo.Utility">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:demo.Utility@4c70fda8]" name="openBrowser" is-config="true" duration-ms="3089" started-at="2018-09-17T09:00:51Z" finished-at="2018-09-17T09:00:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="FAIL" signature="close_url()[pri:0, instance:demo.Utility@4c70fda8]" name="close_url" is-config="true" duration-ms="767" started-at="2018-09-17T09:01:58Z" finished-at="2018-09-17T09:01:59Z">
+          <exception class="java.lang.IndexOutOfBoundsException">
+            <message>
+              <![CDATA[Index: 52, Size: 52]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IndexOutOfBoundsException: Index: 52, Size: 52
+at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+at java.util.ArrayList.get(ArrayList.java:429)
+at demo.Utility.close_url(Utility.java:50)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:483)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:455)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:425)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IndexOutOfBoundsException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_url -->
+      </class> <!-- demo.Utility -->
+      <class name="demo.SearchStudent">
+        <test-method status="PASS" signature="search_stu()[pri:3, instance:demo.SearchStudent@46d56d67]" name="search_stu" duration-ms="41542" started-at="2018-09-17T09:01:15Z" finished-at="2018-09-17T09:01:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_stu -->
+      </class> <!-- demo.SearchStudent -->
+      <class name="demo.CreateStudent">
+        <test-method status="PASS" signature="create_student()[pri:4, instance:demo.CreateStudent@14acaea5]" name="create_student" duration-ms="1381" started-at="2018-09-17T09:01:57Z" finished-at="2018-09-17T09:01:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_student -->
+      </class> <!-- demo.CreateStudent -->
+      <class name="demo.NewTest">
+        <test-method status="PASS" signature="open()[pri:1, instance:demo.NewTest@224edc67]" name="open" duration-ms="18564" started-at="2018-09-17T09:00:54Z" finished-at="2018-09-17T09:01:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="Login()[pri:2, instance:demo.NewTest@224edc67]" name="Login" duration-ms="2180" started-at="2018-09-17T09:01:13Z" finished-at="2018-09-17T09:01:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- demo.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
