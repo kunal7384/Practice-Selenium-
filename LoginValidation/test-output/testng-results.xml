@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17263" started-at="2018-05-24T05:03:31Z" finished-at="2018-05-24T05:03:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17263" started-at="2018-05-24T05:03:31Z" finished-at="2018-05-24T05:03:48Z">
+      <class name="com.kunal.testcases.VerifyLogin">
+        <test-method status="PASS" signature="Logintest()[pri:0, instance:com.kunal.testcases.VerifyLogin@1b604f19]" name="Logintest" duration-ms="9587" started-at="2018-05-24T05:03:31Z" finished-at="2018-05-24T05:03:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest -->
+        <test-method status="PASS" signature="Logintest_invalid()[pri:0, instance:com.kunal.testcases.VerifyLogin@1b604f19]" name="Logintest_invalid" duration-ms="7624" started-at="2018-05-24T05:03:40Z" finished-at="2018-05-24T05:03:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest_invalid -->
+      </class> <!-- com.kunal.testcases.VerifyLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
