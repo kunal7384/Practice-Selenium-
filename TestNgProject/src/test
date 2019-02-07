@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+<listeners>
+      <listener class-name="com.test.Listner"/>
+    </listeners> 
+  
+  <test name="Test">
+    <parameter name = "browser1"  value="chrome"/>
+  <groups>
+  <define name="all">
+ 
+  <include name ="smoke"/>
+  <include name ="sanity"/>
+   </define>
+   <run>
+   <include name ="all"/>
+  </run>
+  </groups>
+
+    <classes>
+      <class name="com.test.LoginTest"/>
+   
+     
+    </classes>
+    </test>
+    <listeners>
+        <listener class-name="com.test.Listner"/>
+    </listeners>
+  
+  <test name="Test1">
+    
+    <parameter name = "browser"  value="firefox"/>
+  <groups>
+  <define name="all">
+ 
+  <include name ="smoke"/>
+  <include name ="sanity"/>
+   </define>
+   <run>
+   <include name ="all"/>
+  </run>
+  </groups>
+
+    <classes>
+    
+       <class name="com.test.Great"/>
+     
+    </classes>
+    </test>
+</suite> <!-- Suite -->
