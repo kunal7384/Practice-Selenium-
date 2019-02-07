@@ -1,0 +1,302 @@
+2018-04-16 15:32:50,606 [main] INFO LogTest - Instatiate Browser
+2018-04-16 15:32:50,620 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 15:32:50,625 [main] INFO LogTest - Apply page Load
+2018-04-16 15:32:53,551 [main] INFO LogTest - Enter Web Address
+2018-04-16 15:38:31,152 [main] INFO LogTest - Instatiate Browser
+2018-04-16 15:38:31,168 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 15:38:31,174 [main] INFO LogTest - Apply page Load
+2018-04-16 15:38:33,470 [main] INFO LogTest - Enter Web Address
+2018-04-16 15:38:33,471 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 16:17:18,939 [main] INFO LogTest - Instatiate Browser
+2018-04-16 16:17:19,004 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 16:17:19,118 [main] INFO LogTest - Apply page Load
+2018-04-16 16:17:48,440 [main] INFO LogTest - Enter Web Address
+2018-04-16 16:17:48,441 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 16:17:48,600 [main] INFO LogTest - Enter valid User Name 
+2018-04-16 16:17:48,692 [main] INFO LogTest - Enter valid password Here 
+2018-04-16 16:17:51,163 [main] INFO LogTest - Login Successfully Here 
+2018-04-16 16:17:51,268 [main] INFO LogTest - Searching For Student
+2018-04-16 16:17:53,800 [main] INFO LogTest - See profile of given Student
+2018-04-16 16:32:50,630 [main] INFO LogTest - Instatiate Browser
+2018-04-16 16:32:50,645 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 16:32:50,649 [main] INFO LogTest - Apply page Load
+2018-04-16 16:33:09,216 [main] INFO LogTest - Enter Web Address
+2018-04-16 16:33:09,217 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 16:33:09,299 [main] INFO LogTest - Enter valid User Name 
+2018-04-16 16:33:09,371 [main] INFO LogTest - Enter valid password Here 
+2018-04-16 16:33:11,572 [main] INFO LogTest - Login Successfully Here 
+2018-04-16 16:33:11,668 [main] INFO LogTest - Searching For Student
+2018-04-16 16:33:14,210 [main] INFO LogTest - See profile of given Student
+2018-04-16 16:33:54,340 [main] INFO LogTest - Instatiate Browser
+2018-04-16 16:33:54,353 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 16:33:54,356 [main] INFO LogTest - Apply page Load
+2018-04-16 16:34:10,946 [main] INFO LogTest - Enter Web Address
+2018-04-16 16:34:10,947 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 16:34:11,033 [main] INFO LogTest - Enter valid User Name 
+2018-04-16 16:34:11,104 [main] INFO LogTest - Enter valid password Here 
+2018-04-16 16:34:13,251 [main] INFO LogTest - Login Successfully Here 
+2018-04-16 16:34:13,344 [main] INFO LogTest - Searching For Student
+2018-04-16 16:34:15,796 [main] INFO LogTest - See profile of given Student
+2018-04-16 16:37:08,972 [main] INFO LogTest - Instatiate Browser
+2018-04-16 16:37:08,983 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 16:37:08,987 [main] INFO LogTest - Apply page Load
+2018-04-16 16:37:23,307 [main] INFO LogTest - Enter Web Address
+2018-04-16 16:37:23,308 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 16:37:23,394 [main] INFO LogTest - Enter valid User Name 
+2018-04-16 16:37:23,469 [main] INFO LogTest - Enter valid password Here 
+2018-04-16 16:37:25,905 [main] INFO LogTest - Login Successfully Here 
+2018-04-16 16:37:25,991 [main] INFO LogTest - Searching For Student
+2018-04-16 16:37:30,156 [main] INFO LogTest - See profile of given Student
+2018-04-16 16:39:26,406 [main] INFO LogTest - Instatiate Browser
+2018-04-16 16:39:26,419 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 16:39:26,422 [main] INFO LogTest - Apply page Load
+2018-04-16 16:39:47,687 [main] INFO LogTest - Enter Web Address
+2018-04-16 16:39:47,688 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 16:39:47,847 [main] INFO LogTest - Enter valid User Name 
+2018-04-16 16:39:47,921 [main] INFO LogTest - Enter valid password Here 
+2018-04-16 16:39:50,097 [main] INFO LogTest - Login Successfully Here 
+2018-04-16 16:39:50,192 [main] INFO LogTest - Searching For Student
+2018-04-16 16:39:54,520 [main] INFO LogTest - See profile of given Student
+2018-04-16 16:52:29,509 [main] INFO LogTest - Instatiate Browser
+2018-04-16 16:52:29,520 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 16:52:29,523 [main] INFO LogTest - Apply page Load
+2018-04-16 16:52:54,641 [main] INFO LogTest - Enter Web Address
+2018-04-16 16:52:54,642 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 16:52:54,734 [main] INFO LogTest - Enter valid User Name 
+2018-04-16 16:52:54,901 [main] INFO LogTest - Enter valid password Here 
+2018-04-16 16:52:57,065 [main] INFO LogTest - Login Successfully Here 
+2018-04-16 16:52:57,202 [main] INFO LogTest - Searching For Student
+2018-04-16 16:52:59,220 [main] INFO LogTest - See profile of given Student
+2018-04-16 16:54:35,226 [main] INFO LogTest - Instatiate Browser
+2018-04-16 16:54:35,240 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 16:54:35,243 [main] INFO LogTest - Apply page Load
+2018-04-16 16:54:58,035 [main] INFO LogTest - Enter Web Address
+2018-04-16 16:54:58,036 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 16:54:58,122 [main] INFO LogTest - Enter valid User Name 
+2018-04-16 16:54:58,195 [main] INFO LogTest - Enter valid password Here 
+2018-04-16 16:55:01,270 [main] INFO LogTest - Login Successfully Here 
+2018-04-16 16:55:01,473 [main] INFO LogTest - Searching For Student
+2018-04-16 16:55:05,912 [main] INFO LogTest - See profile of given Student
+2018-04-16 16:55:37,687 [main] INFO LogTest - Instatiate Browser
+2018-04-16 16:55:37,702 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 16:55:37,705 [main] INFO LogTest - Apply page Load
+2018-04-16 16:56:04,750 [main] INFO LogTest - Enter Web Address
+2018-04-16 16:56:04,751 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 16:56:04,904 [main] INFO LogTest - Enter valid User Name 
+2018-04-16 16:56:04,981 [main] INFO LogTest - Enter valid password Here 
+2018-04-16 16:56:07,468 [main] INFO LogTest - Login Successfully Here 
+2018-04-16 16:56:07,562 [main] INFO LogTest - Searching For Student
+2018-04-16 16:56:11,255 [main] INFO LogTest - See profile of given Student
+2018-04-16 16:58:10,423 [main] INFO LogTest - Instatiate Browser
+2018-04-16 16:58:10,435 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 16:58:10,438 [main] INFO LogTest - Apply page Load
+2018-04-16 16:58:32,462 [main] INFO LogTest - Enter Web Address
+2018-04-16 16:58:32,463 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 16:58:32,549 [main] INFO LogTest - Enter valid User Name 
+2018-04-16 16:58:32,620 [main] INFO LogTest - Enter valid password Here 
+2018-04-16 16:58:34,839 [main] INFO LogTest - Login Successfully Here 
+2018-04-16 16:58:34,986 [main] INFO LogTest - Searching For Student
+2018-04-16 16:58:38,129 [main] INFO LogTest - See profile of given Student
+2018-04-16 17:02:08,713 [main] INFO LogTest - Instatiate Browser
+2018-04-16 17:02:08,724 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 17:02:08,728 [main] INFO LogTest - Apply page Load
+2018-04-16 17:02:33,660 [main] INFO LogTest - Enter Web Address
+2018-04-16 17:02:33,660 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 17:02:33,746 [main] INFO LogTest - Enter valid User Name 
+2018-04-16 17:02:33,886 [main] INFO LogTest - Enter valid password Here 
+2018-04-16 17:02:36,225 [main] INFO LogTest - Login Successfully Here 
+2018-04-16 17:02:36,337 [main] INFO LogTest - Searching For Student
+2018-04-16 17:02:38,852 [main] INFO LogTest - See profile of given Student
+2018-04-16 17:04:13,845 [main] INFO LogTest - Instatiate Browser
+2018-04-16 17:04:13,861 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 17:04:13,868 [main] INFO LogTest - Apply page Load
+2018-04-16 17:04:32,396 [main] INFO LogTest - Enter Web Address
+2018-04-16 17:04:32,397 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 17:04:32,488 [main] INFO LogTest - Enter valid User Name 
+2018-04-16 17:04:32,563 [main] INFO LogTest - Enter valid password Here 
+2018-04-16 17:04:34,743 [main] INFO LogTest - Login Successfully Here 
+2018-04-16 17:04:34,943 [main] INFO LogTest - Searching For Student
+2018-04-16 17:04:37,578 [main] INFO LogTest - See profile of given Student
+2018-04-16 17:15:58,615 [main] INFO LogTest - Instatiate Browser
+2018-04-16 17:15:58,628 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 17:15:58,632 [main] INFO LogTest - Apply page Load
+2018-04-16 17:16:20,639 [main] INFO LogTest - Enter Web Address
+2018-04-16 17:16:20,639 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 17:16:20,722 [main] INFO LogTest - Enter valid User Name 
+2018-04-16 17:16:20,861 [main] INFO LogTest - Enter valid password Here 
+2018-04-16 17:16:23,665 [main] INFO LogTest - Login Successfully Here 
+2018-04-16 17:16:23,848 [main] INFO LogTest - Searching For Student
+2018-04-16 17:16:26,633 [main] INFO LogTest - See profile of given Student
+2018-04-16 17:16:50,500 [main] INFO LogTest - Instatiate Browser
+2018-04-16 17:16:50,513 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 17:16:50,517 [main] INFO LogTest - Apply page Load
+2018-04-16 17:17:43,423 [main] INFO LogTest - Instatiate Browser
+2018-04-16 17:17:43,437 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 17:17:43,440 [main] INFO LogTest - Apply page Load
+2018-04-16 17:18:07,777 [main] INFO LogTest - Enter Web Address
+2018-04-16 17:18:07,778 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 17:18:07,925 [main] INFO LogTest - Enter valid User Name 
+2018-04-16 17:18:08,001 [main] INFO LogTest - Enter valid password Here 
+2018-04-16 17:18:10,105 [main] INFO LogTest - Login Successfully Here 
+2018-04-16 17:18:10,193 [main] INFO LogTest - Searching For Student
+2018-04-16 17:18:12,098 [main] INFO LogTest - See profile of given Student
+2018-04-16 17:19:58,569 [main] INFO LogTest - Instatiate Browser
+2018-04-16 17:19:58,580 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 17:19:58,583 [main] INFO LogTest - Apply page Load
+2018-04-16 17:20:17,452 [main] INFO LogTest - Enter Web Address
+2018-04-16 17:20:17,453 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 17:20:17,535 [main] INFO LogTest - Enter valid User Name 
+2018-04-16 17:20:17,610 [main] INFO LogTest - Enter valid password Here 
+2018-04-16 17:20:19,824 [main] INFO LogTest - Login Successfully Here 
+2018-04-16 17:20:19,982 [main] INFO LogTest - Searching For Student
+2018-04-16 17:20:23,371 [main] INFO LogTest - See profile of given Student
+2018-04-16 17:21:24,230 [main] INFO LogTest - Instatiate Browser
+2018-04-16 17:21:24,246 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 17:21:24,252 [main] INFO LogTest - Apply page Load
+2018-04-16 17:21:49,979 [main] INFO LogTest - Enter Web Address
+2018-04-16 17:21:49,980 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 17:21:50,066 [main] INFO LogTest - Enter valid User Name 
+2018-04-16 17:21:50,137 [main] INFO LogTest - Enter valid password Here 
+2018-04-16 17:21:52,299 [main] INFO LogTest - Login Successfully Here 
+2018-04-16 17:21:52,385 [main] INFO LogTest - Searching For Student
+2018-04-16 17:21:55,660 [main] INFO LogTest - See profile of given Student
+2018-04-16 17:28:18,032 [main] INFO LogTest - Instatiate Browser
+2018-04-16 17:28:18,044 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 17:28:18,049 [main] INFO LogTest - Apply page Load
+2018-04-16 17:28:56,222 [main] INFO LogTest - Instatiate Browser
+2018-04-16 17:28:56,240 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 17:28:56,245 [main] INFO LogTest - Apply page Load
+2018-04-16 17:29:50,996 [main] INFO LogTest - Instatiate Browser
+2018-04-16 17:29:51,022 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 17:29:51,028 [main] INFO LogTest - Apply page Load
+2018-04-16 17:30:08,922 [main] INFO LogTest - Enter Web Address
+2018-04-16 17:30:08,923 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 17:30:09,037 [main] INFO LogTest - Enter valid User Name 
+2018-04-16 17:30:09,140 [main] INFO LogTest - Enter valid password Here 
+2018-04-16 17:30:11,358 [main] INFO LogTest - Login Successfully Here 
+2018-04-16 17:30:11,447 [main] INFO LogTest - Searching For Student
+2018-04-16 17:30:13,704 [main] INFO LogTest - See profile of given Student
+2018-04-16 17:31:16,175 [main] INFO LogTest - Instatiate Browser
+2018-04-16 17:31:16,184 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 17:31:16,187 [main] INFO LogTest - Apply page Load
+2018-04-16 17:31:34,196 [main] INFO LogTest - Enter Web Address
+2018-04-16 17:31:34,197 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 17:31:34,286 [main] INFO LogTest - Enter valid User Name 
+2018-04-16 17:31:34,363 [main] INFO LogTest - Enter valid password Here 
+2018-04-16 17:31:36,544 [main] INFO LogTest - Login Successfully Here 
+2018-04-16 17:31:36,651 [main] INFO LogTest - Searching For Student
+2018-04-16 17:31:39,245 [main] INFO LogTest - See profile of given Student
+2018-04-16 17:33:00,151 [main] INFO LogTest - Instatiate Browser
+2018-04-16 17:33:00,166 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 17:33:00,169 [main] INFO LogTest - Apply page Load
+2018-04-16 17:33:18,562 [main] INFO LogTest - Enter Web Address
+2018-04-16 17:33:18,563 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 17:33:18,698 [main] INFO LogTest - Enter valid User Name 
+2018-04-16 17:33:18,851 [main] INFO LogTest - Enter valid password Here 
+2018-04-16 17:33:21,033 [main] INFO LogTest - Login Successfully Here 
+2018-04-16 17:33:21,130 [main] INFO LogTest - Searching For Student
+2018-04-16 17:33:36,122 [main] INFO LogTest - Instatiate Browser
+2018-04-16 17:33:36,133 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 17:33:36,136 [main] INFO LogTest - Apply page Load
+2018-04-16 17:33:55,249 [main] INFO LogTest - Enter Web Address
+2018-04-16 17:33:55,249 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 17:33:55,336 [main] INFO LogTest - Enter valid User Name 
+2018-04-16 17:33:55,411 [main] INFO LogTest - Enter valid password Here 
+2018-04-16 17:33:57,568 [main] INFO LogTest - Login Successfully Here 
+2018-04-16 17:33:57,656 [main] INFO LogTest - Searching For Student
+2018-04-16 17:34:01,800 [main] INFO LogTest - See profile of given Student
+2018-04-16 17:35:34,114 [main] INFO LogTest - Instatiate Browser
+2018-04-16 17:35:34,123 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 17:35:34,126 [main] INFO LogTest - Apply page Load
+2018-04-16 17:35:49,779 [main] INFO LogTest - Enter Web Address
+2018-04-16 17:35:49,780 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 17:35:49,862 [main] INFO LogTest - Enter valid User Name 
+2018-04-16 17:35:49,938 [main] INFO LogTest - Enter valid password Here 
+2018-04-16 17:35:52,015 [main] INFO LogTest - Login Successfully Here 
+2018-04-16 17:35:52,126 [main] INFO LogTest - Searching For Student
+2018-04-16 17:35:54,265 [main] INFO LogTest - See profile of given Student
+2018-04-16 17:36:30,233 [main] INFO LogTest - Instatiate Browser
+2018-04-16 17:36:30,251 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 17:36:30,255 [main] INFO LogTest - Apply page Load
+2018-04-16 17:36:48,863 [main] INFO LogTest - Enter Web Address
+2018-04-16 17:36:48,863 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 17:36:48,945 [main] INFO LogTest - Enter valid User Name 
+2018-04-16 17:36:49,021 [main] INFO LogTest - Enter valid password Here 
+2018-04-16 17:36:51,157 [main] INFO LogTest - Login Successfully Here 
+2018-04-16 17:36:51,245 [main] INFO LogTest - Searching For Student
+2018-04-16 17:36:53,711 [main] INFO LogTest - See profile of given Student
+2018-04-16 17:39:32,597 [main] INFO LogTest - Instatiate Browser
+2018-04-16 17:39:32,606 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 17:39:32,609 [main] INFO LogTest - Apply page Load
+2018-04-16 17:40:22,023 [main] INFO LogTest - Instatiate Browser
+2018-04-16 17:40:22,038 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 17:40:22,042 [main] INFO LogTest - Apply page Load
+2018-04-16 17:41:09,704 [main] INFO LogTest - Instatiate Browser
+2018-04-16 17:41:09,720 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 17:41:09,724 [main] INFO LogTest - Apply page Load
+2018-04-16 17:42:13,000 [main] INFO LogTest - Instatiate Browser
+2018-04-16 17:42:13,012 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 17:42:13,018 [main] INFO LogTest - Apply page Load
+2018-04-16 17:42:31,710 [main] INFO LogTest - Enter Web Address
+2018-04-16 17:42:31,710 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 17:42:31,833 [main] INFO LogTest - Enter valid User Name 
+2018-04-16 17:42:31,905 [main] INFO LogTest - Enter valid password Here 
+2018-04-16 17:42:34,009 [main] INFO LogTest - Login Successfully Here 
+2018-04-16 17:42:34,097 [main] INFO LogTest - Searching For Student
+2018-04-16 17:42:36,495 [main] INFO LogTest - See profile of given Student
+2018-04-16 17:44:02,449 [main] INFO LogTest - Instatiate Browser
+2018-04-16 17:44:02,459 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 17:44:02,463 [main] INFO LogTest - Apply page Load
+2018-04-16 17:44:22,929 [main] INFO LogTest - Enter Web Address
+2018-04-16 17:44:22,930 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 17:44:23,020 [main] INFO LogTest - Enter valid User Name 
+2018-04-16 17:44:23,097 [main] INFO LogTest - Enter valid password Here 
+2018-04-16 17:44:25,209 [main] INFO LogTest - Login Successfully Here 
+2018-04-16 17:44:25,311 [main] INFO LogTest - Searching For Student
+2018-04-16 17:44:29,888 [main] INFO LogTest - See profile of given Student
+2018-04-16 17:45:23,414 [main] INFO LogTest - Instatiate Browser
+2018-04-16 17:45:23,424 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 17:45:23,427 [main] INFO LogTest - Apply page Load
+2018-04-16 17:45:38,887 [main] INFO LogTest - Enter Web Address
+2018-04-16 17:45:38,888 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 17:45:39,068 [main] INFO LogTest - Enter valid User Name 
+2018-04-16 17:45:39,151 [main] INFO LogTest - Enter valid password Here 
+2018-04-16 17:45:41,304 [main] INFO LogTest - Login Successfully Here 
+2018-04-16 17:45:41,390 [main] INFO LogTest - Searching For Student
+2018-04-16 17:45:44,240 [main] INFO LogTest - See profile of given Student
+2018-04-16 17:47:41,304 [main] INFO LogTest - Instatiate Browser
+2018-04-16 17:47:41,315 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 17:47:41,318 [main] INFO LogTest - Apply page Load
+2018-04-16 17:48:02,887 [main] INFO LogTest - Enter Web Address
+2018-04-16 17:48:02,887 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 17:48:02,977 [main] INFO LogTest - Enter valid User Name 
+2018-04-16 17:48:03,049 [main] INFO LogTest - Enter valid password Here 
+2018-04-16 17:48:05,416 [main] INFO LogTest - Login Successfully Here 
+2018-04-16 17:48:05,527 [main] INFO LogTest - Searching For Student
+2018-04-16 17:48:07,889 [main] INFO LogTest - See profile of given Student
+2018-04-16 17:50:01,186 [main] INFO LogTest - Instatiate Browser
+2018-04-16 17:50:01,196 [main] INFO LogTest - Apply Implicit Wait
+2018-04-16 17:50:01,201 [main] INFO LogTest - Apply page Load
+2018-04-16 17:50:33,029 [main] INFO LogTest - Enter Web Address
+2018-04-16 17:50:33,030 [main] INFO LogTest - Printing Some Message On Console
+2018-04-16 17:50:33,119 [main] INFO LogTest - Enter valid User Name 
+2018-04-16 17:50:33,194 [main] INFO LogTest - Enter valid password Here 
+2018-04-16 17:50:35,439 [main] INFO LogTest - Login Successfully Here 
+2018-04-16 17:50:35,525 [main] INFO LogTest - Searching For Student
+2018-04-16 17:50:38,002 [main] INFO LogTest - See profile of given Student
+2018-05-25 11:47:12,038 [main] INFO LogTest - Instatiate Browser
+2018-05-25 11:47:12,263 [main] INFO LogTest - Apply Implicit Wait
+2018-05-25 11:47:12,269 [main] INFO LogTest - Apply page Load
+2018-05-25 11:47:22,613 [main] INFO LogTest - Enter Web Address
+2018-05-25 11:47:22,614 [main] INFO LogTest - Printing Some Message On Console
+2018-05-25 11:47:22,695 [main] INFO LogTest - Enter valid User Name 
+2018-05-25 11:47:22,792 [main] INFO LogTest - Enter valid password Here 
+2018-05-25 11:47:32,788 [main] INFO LogTest - Login Successfully Here 
+2018-05-25 11:47:32,879 [main] INFO LogTest - Searching For Student
+2018-05-25 11:57:18,772 [main] INFO LogTest - Instatiate Browser
+2018-05-25 11:57:18,818 [main] INFO LogTest - Apply Implicit Wait
+2018-05-25 11:57:18,821 [main] INFO LogTest - Apply page Load
+2018-05-25 11:57:29,181 [main] INFO LogTest - Enter Web Address
+2018-05-25 11:57:29,182 [main] INFO LogTest - Printing Some Message On Console
+2018-05-25 11:57:29,262 [main] INFO LogTest - Enter valid User Name 
+2018-05-25 11:57:29,364 [main] INFO LogTest - Enter valid password Here 
