@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17873" started-at="2018-06-09T06:57:25Z" finished-at="2018-06-09T06:57:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17873" started-at="2018-06-09T06:57:25Z" finished-at="2018-06-09T06:57:42Z">
+      <class name="mavenJenkinsPrac.Demo">
+        <test-method status="PASS" signature="scrollSelenium()[pri:0, instance:mavenJenkinsPrac.Demo@687080dc]" name="scrollSelenium" duration-ms="9509" started-at="2018-06-09T12:27:25Z" finished-at="2018-06-09T12:27:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollSelenium -->
+        <test-method status="PASS" signature="great_palce_to_work()[pri:2, instance:mavenJenkinsPrac.Demo@687080dc]" name="great_palce_to_work" duration-ms="6531" started-at="2018-06-09T12:27:34Z" finished-at="2018-06-09T12:27:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- great_palce_to_work -->
+        <test-method status="PASS" signature="invalid()[pri:3, instance:mavenJenkinsPrac.Demo@687080dc]" name="invalid" duration-ms="1793" started-at="2018-06-09T12:27:41Z" finished-at="2018-06-09T12:27:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalid -->
+      </class> <!-- mavenJenkinsPrac.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
